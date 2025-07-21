@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Dicari hewan peliharaan</h1>    
+    <p>
+        Nama : Sakib<br>Warna : Hitam<br>Jenis : Tokek<br>Agak dekil dan gendut</p><br>Tolong telfon <a href="tel:212-555-2368">nomer ini</a>
+    </p>
+    <img src="D:\WhatsApp Image 2025-07-21 at 20.28.41_d994fdb2.jpg" width="100" height="200"> 
+
+</body>
+</html>
